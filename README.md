@@ -1,1 +1,1 @@
-# unity-ball-game
+# unity-game-prototype
